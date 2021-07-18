@@ -22,9 +22,9 @@ Project created by <a href="https://github.com/ameer-kamaru">ameer-kamaru</a> to
   <a href="httsp://github.com/ameer-kamaru/akkamaru">
     <img src="https://img.shields.io/github/repo-size/ameerkamaru/akkamaru?color=%f7df1e&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/ameer-kamaru/followers"><img title="Followers" src="https://img.shields.io/github/followers/ameer-kallumthodi?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/ameer-kamaru/followers"><img title="Followers" src="https://img.shields.io/github/followers/ameer-kamaru?color=f7df1e&style=flat-square"></a>
 <a href="https://github.com/ameer-kamaru/akkamaru/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ameer-kamaru/akkamaru?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/akkamaru/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ameer-kamaru/akkamaru?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/ameer-kamaru/akkamaru/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ameer-kamaru/akkamaru?color=f7df1e&style=flat-square"></a>
 <a href="https://github.com/ameer-kamameer-kamaruhers"><img title="Watching" src="https://img.shields.io/github/watchers/ameer-kamaru/akkamaru?label=Watchers&color=f7df1e&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-f7df1e.svg"</a>
 </p>
@@ -36,7 +36,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/GUhzlg6Yhkj611fLl5HkpN)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ameer-kallumthodi&repo=PublicBot&theme=nightowl)](https://github.com/ameer-kamaru/PublicBot)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ameer-kamaru&repo=PublicBot&theme=nightowl)](https://github.com/ameer-kamaru/PublicBot)
   </div>
     
 ## Setup
@@ -46,7 +46,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pika.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ameer-kamaru/akka.git)
      </div>
 <br>
 <br >
@@ -92,7 +92,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![ameerkallumthodi](https://github.com/akkamaru-407x400.png?size=100)](https://github.com/ameerkallumthodi) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![ameerkamaruameerkamaru](https://github.com/akkamaru-407x400.png?size=100)](https://github.com/ameerkallumthodi) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
 [farhan-dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
